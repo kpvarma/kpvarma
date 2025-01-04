@@ -1,6 +1,7 @@
 # Hi there 👋
 
 I'm **Krishna**, a passionate Full Stack Engineer and Software Architect with over 9 years of experience in building scalable, high-quality applications.
+I enjoy coding even in my free time and love exploring new technologies to solve real-world problems.
 
 ## 🚀 About Me
 - 🔭 I’m currently working as a **Freelance Senior Full Stack Engineer**, consulting on exciting projects.
@@ -19,15 +20,3 @@ I'm **Krishna**, a passionate Full Stack Engineer and Software Architect with ov
 - AWS (Lambda, Elastic Beanstalk, RDS), Docker, Kubernetes, Jenkins, GitHub Actions  
 ### Others:
 - Microservices, Automated Testing, CI/CD, Redis Queues, Sidekiq
-
-## 🌟 Notable Projects
-- Developed a **global donation platform** connecting users to credible projects.
-- Built a **dining platform** offering live culinary experiences, ensuring a seamless launch under a tight timeline.
-- Created a **hydroponic animal feed solution** to address food security challenges.
-- Designed a **translation engine** to simplify food ingredient label translations for the F&B industry.
-
-## 📊 GitHub Stats
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=kpvarma&show_icons=true&theme=dark)
-
-## 💡 Fun Fact
-- I enjoy coding even in my free time and love exploring new technologies to solve real-world problems.
